@@ -1,0 +1,13 @@
+.face {
+  font-size: 2.5rem;
+}
+
+a {
+  display: block!important;
+  color: white!important;
+  text-decoration: none!important;
+}
+
+img {
+  width: 100%;
+}
